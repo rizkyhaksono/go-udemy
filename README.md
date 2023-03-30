@@ -25,4 +25,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://github.com/rizkyhaksono/go-udemy/blob/main/LICENSE)
+[MIT License](https://github.com/rizkyhaksono/go-udemy/blob/main/LICENSE)
