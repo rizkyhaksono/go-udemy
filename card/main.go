@@ -3,6 +3,12 @@ package main
 import "fmt"
 
 func main() {
-	var card string = "Joker"
+	// old way
+	// var card string = "Joker"
+
+	// new way
+	card := "Joker"
+	card = "Ace of Spades"
+
 	fmt.Println(card)
 }
