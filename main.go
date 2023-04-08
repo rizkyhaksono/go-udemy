@@ -12,6 +12,7 @@ func main() {
 
 	// hand.printDeck()
 	// remainingCards.printDeck()
+	
 	cards := newDeck()
 	fmt.Println(cards.toString())
 }
