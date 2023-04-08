@@ -1,7 +1,10 @@
+// package  main for read all files that contain in this package
 package main
 
+// import package
 import "fmt"
 
+// driver method
 func main() {
 	// cards := newDeck()
 
