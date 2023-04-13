@@ -4,6 +4,8 @@ This is golang course for beginners. This course is from [Udemy](https://www.ude
 
 This course is about golang programming language and how to create a simple card game using golang programming language.
 
+Will be fine line
+
 ## Installation
 
 [Golang installation](https://go.dev/dl/) to install golang compiler.
