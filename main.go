@@ -2,7 +2,6 @@
 package main
 
 // import package
-import "fmt"
 
 // driver method
 func main() {
@@ -14,5 +13,5 @@ func main() {
 	// remainingCards.printDeck()
 	
 	cards := newDeck()
-	fmt.Println(cards.toString())
+	cards.saveToFile("my_cards.txt")
 }
