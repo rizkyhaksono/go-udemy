@@ -1,17 +1,10 @@
-// package  main for read all files that contain in this package
 package main
 
-// import package
-
-// driver method
 func main() {
-	// cards := newDeck()
+	// cards := newDeckFromFile("my_card.txt")
+	// cards.printDeck()
 
-	// hand, remainingCards := deal(cards, 5)
-
-	// hand.printDeck()
-	// remainingCards.printDeck()
-	
 	cards := newDeck()
-	cards.saveToFile("my_cards.txt")
+	cards.shuffle()
+	cards.printDeck()
 }
