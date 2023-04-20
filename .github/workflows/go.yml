@@ -27,4 +27,4 @@ jobs:
               run: go test main.go deck.go deck_test.go
 
             - name: Run
-              run: go run main.go deck.go deck_test.go
+              run: go run main.go deck.go
