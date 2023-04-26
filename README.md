@@ -23,6 +23,8 @@ While learning this course, you have to listen this [playlist](https://open.spot
 
 ### Build Command
 
+If there is any red line in your code editor, you can ignore it. It's because the code editor doesn't know the package that you use. But, if you run the code, it will work.
+
 ```go
 go build main.go deck.go
 ```
