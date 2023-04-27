@@ -26,19 +26,19 @@ While learning this course, you have to listen this [playlist](https://open.spot
 If there is any red line in your code editor, you can ignore it. It's because the code editor doesn't know the package that you use. But, if you run the code, it will work.
 
 ```go
-go build main.go deck.go
+cd <folder> && go build main.go deck.go
 ```
 
 ### Run Command
 
 ```go
-go run main.go deck.go
+cd <folder> && go run main.go deck.go
 ```
 
 ### Test Command
 
 ```go
-go test deck_test.go deck.go
+cd <folder> && go test deck_test.go deck.go
 ```
 
 ## License
