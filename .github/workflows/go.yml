@@ -22,9 +22,11 @@ jobs:
 
             - name: Build
               run: cd cards && go build main.go deck.go deck_test.go
+              run : cd struct && go build main.go
 
             - name: Test
               run: cd cards && go test main.go deck.go deck_test.go
 
             - name: Run
               run: cd cards && go run main.go deck.go
+              run: cd struct && go run main.go
