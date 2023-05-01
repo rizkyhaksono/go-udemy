@@ -23,6 +23,7 @@ func main() {
 		},
 	}
 
+	// optional
 	// rizkyPointer := &rizky
 	rizky.print()
 	rizky.updateName("Natee")
@@ -34,6 +35,5 @@ func (pointerToPerson *person) updateName(newFirstName string) {
 }
 
 func (p person) print() {
-	// fmt.Printf("%+v", 	p)
-	fmt.Println(p)
+	fmt.Printf("%+v", 	p)
 }
