@@ -1,6 +1,8 @@
 # Golang Udemy Course
 
-This is golang course for beginners. This course is about golang programming language from [Udemy](https://www.udemy.com/course/learn-how-to-code/), and how to create a simple card game using golang programming language.
+This is golang course for beginners. This course is about golang programming language from [Udemy](https://www.udemy.com/course/learn-how-to-code/).
+
+This repository include course like (cards, channels, http, interfaces, map, and struct).
 
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/rizkyhaksono/go-udemy?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/rizkyhaksono/go-udemy?style=flat-square)
